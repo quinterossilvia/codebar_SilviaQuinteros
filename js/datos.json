@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+     "nombre": "Bramble",
+     "precio": 950,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (1).png"
+  },
+  {
+    "id": 2,
+     "nombre": "Cubalibre",
+     "precio": 750,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (3).png"
+  },
+  {
+    "id": 3,
+     "nombre": "Espresso Martini",
+     "precio": 900,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (7).png"
+  },
+  {
+    "id": 4,
+     "nombre": "Lady from Shanghai",
+     "precio": 450,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (4).png"
+  },
+  {
+    "id": 5,
+     "nombre": "Full Passion",
+     "precio": 500,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (6).png"
+  },
+  {
+    "id": 6,
+     "nombre": "Mezcal",
+     "precio": 4500,
+     "destacado": true,
+     "imagen": "./img/pngocean.com.png"
+  },
+  {
+    "id": 7,
+     "nombre": "Mojito",
+     "precio": 500,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (10).png"
+  },
+  {
+    "id": 8,
+     "nombre": "Pink Gin",
+     "precio": 550,
+     "destacado": true,
+     "imagen": "./img/pngocean.com (9).png"
+  },
+  {
+    "id": 9,
+     "nombre": "Carmesi",
+     "precio": 70,
+     "destacado": false,
+     "imagen": "./img/pngocean.com (13).png"
+  }
+]
+  
